@@ -7,5 +7,5 @@ Things we want to do:
 
 data is from: https://classic.fec.gov/finance/disclosure/ftpdet.shtml, utilizing the following two files for each election cycle:
   1. Any Transaction from One Committee to Another - we call 'transXXXX.txt', where XXXX is the year
-  2. Committee Master File	- we call this 'cnXXXX.txt', where XXXX is the year
+  2. Candidate Master File	- we call this 'cnXXXX.txt', where XXXX is the year
 
